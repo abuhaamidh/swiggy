@@ -1,0 +1,184 @@
+#swiggy {
+  margin-left: 150px;
+  margin-top: 15px;
+
+}
+
+.icons {
+  display: inline;
+  margin-left: 67%;
+  display: flex;
+}
+
+a {
+
+  font-weight: 450;
+  margin-left: 30px;
+  margin-top: -45px;
+}
+
+
+h1 {
+  color: whitesmoke;
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-top: 30px;
+}
+
+.design {
+  background: #494d60;
+  color: whitesmoke;
+  height: 160px;
+  padding: 60px 150px;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: 10px;
+}
+
+input {
+  font-size: 12px;
+  height: 39.2px;
+  width: 290px;
+}
+
+#btn {
+  height: 46px;
+  margin-left: -4.5px;
+  font-weight: 600;
+  background-color: #F59E0B;
+  width: 110px;
+  color: white;
+}
+
+
+.bar {
+  font-size: 10px;
+  background: rgb(233, 227, 227);
+  padding: 15px 150px;
+  opacity: 0.6;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.icons a {
+  text-decoration: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 50px;
+  color: black;
+  margin-right: 50px;
+}
+
+.icons a:hover {
+  color: orangered;
+}
+
+h2 {
+  color: black;
+  font-size: 32px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 140px;
+  margin-top: 60px;
+}
+
+.about {
+  margin-left: 140px;
+  margin-right: 300px;
+  font-size: 20px;
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30px;
+}
+
+h3 {
+  font-size: 32px;
+  margin-left: 140px;
+  margin-top: 65px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 100px;
+  margin-right: 140px;
+}
+
+#offers {
+  color: white;
+  position: absolute;
+  font-weight: 900;
+  font-size: 28px;
+  margin-left: -56%;
+  margin-top: 18%;
+}
+
+#top {
+  color: white;
+  position: absolute;
+  font-weight: 900;
+  font-size: 28px;
+  margin-top: 18%;
+}
+
+#fast {
+  color: white;
+  position: absolute;
+  font-weight: 800;
+  font-size: 26px;
+  margin-left: 55.2%;
+  margin-top: 18%;
+
+}
+
+.flex2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  margin-left: 100px;
+  margin-right: 140px;
+}
+
+#biryani {
+  color: white;
+  position: absolute;
+  font-weight: 900;
+  font-size: 28px;
+  margin-left: -56%;
+  margin-top: 18%;
+}
+
+#Northindian {
+  color: white;
+  position: absolute;
+  font-weight: 900;
+  font-size: 28px;
+  margin-top: 18%;
+}
+
+#southindian {
+  color: white;
+  position: absolute;
+  font-weight: 900;
+  font-size: 28px;
+  margin-left: 56%;
+  margin-top: 18%;
+}
+
+p1 {
+  position: absolute;
+  top: 1110px;
+  left: 0.5px;
+  color: red;
+  font-size: 22px;
+  font-family: bold;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: 800;
+  font-family: sans-serif;
+  margin-top: 50px;
+  margin-left: 130px;
+}

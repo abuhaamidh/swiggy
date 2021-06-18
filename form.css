@@ -1,0 +1,41 @@
+form {
+  margin-top: 8%;
+  margin-left: 35%
+}
+
+#email {
+  width: 400px;
+}
+
+
+label {
+  color: darkorange;
+  font-weight: 600;
+}
+
+#password {
+  width: 400px;
+}
+
+#password1 {
+  width: 400px;
+}
+
+#swiggy {
+  margin-left: 150px;
+  margin-top: 15px;
+
+}
+
+.icons {
+  display: inline;
+  margin-left: 90%;
+  display: flex;
+}
+
+a {
+
+  font-weight: 450;
+  margin-left: 30px;
+  margin-top: -45px;
+}
